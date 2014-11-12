@@ -1,6 +1,6 @@
 Python - Beyond the Basics
 
-Courseware from pluralsight.
+Courseware from Pluralsight.
 
 The teaching style is one of "growing" code, which is ok but the finished result loses the thought progression that got you there.
 
