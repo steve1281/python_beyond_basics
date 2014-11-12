@@ -8,4 +8,4 @@ So, by using git hub here I can commit and track changes and keep the evolution 
 
 Plus, I wanted to see how PyCharm worked with Git.  (to be fair, its ok once you get it set up.)
 
-As a caveat, I am not really maintaining these files at all. You can get the completed files from pluralsight directly if you want; I am more interesting in saving the code evolution.
+As a caveat, I am not really maintaining these files at all. You can get the completed files from Pluralsight directly if you want; I am more interesting in saving the code evolution.
