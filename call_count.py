@@ -1,5 +1,3 @@
-__author__ = 'steve1281'
-
 class CallCount:
     def __init__(self, f):
         self.f = f
